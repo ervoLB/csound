@@ -228,5 +228,8 @@
   "csoundDebugGetVariables",
   "csoundDebugFreeVariables",
   "csoundDebugGetUdoFrames",
-  "csoundDebugFreeUdoFrames"
+  "csoundDebugFreeUdoFrames",
+  "csoundDebugGetGlobalVariables",
+  "csoundDebugSerializeFsig",
+  "csoundDebugSerializeArray"
 ]
